@@ -1,5 +1,6 @@
 **Introduction To Git**
-# Section 1
+# Description
 Git merupakan tools utk membantu melakukan management  project directory
-## Section 1.A
-### Section 1.A.1
+## Instialize
+use command git init to a
+### Section 1.A.1 
